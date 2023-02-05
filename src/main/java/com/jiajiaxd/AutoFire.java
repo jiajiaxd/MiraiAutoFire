@@ -1,19 +1,13 @@
 package com.jiajiaxd;
 
 import net.mamoe.mirai.Bot;
-import net.mamoe.mirai.IMirai;
 import net.mamoe.mirai.Mirai;
-import net.mamoe.mirai.console.MiraiConsole;
 import net.mamoe.mirai.console.data.AutoSavePluginDataHolder;
-import net.mamoe.mirai.console.data.java.JAutoSavePluginConfig;
-import net.mamoe.mirai.console.data.java.JAutoSavePluginData;
 import net.mamoe.mirai.console.plugin.jvm.JavaPlugin;
 import net.mamoe.mirai.console.plugin.jvm.JvmPluginDescriptionBuilder;
 import net.mamoe.mirai.event.GlobalEventChannel;
 import net.mamoe.mirai.event.Listener;
 import net.mamoe.mirai.event.events.BotOnlineEvent;
-import net.mamoe.mirai.event.events.GroupMessageEvent;
-import net.mamoe.mirai.console.data.Value;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

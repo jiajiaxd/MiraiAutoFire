@@ -1,6 +1,5 @@
 package com.jiajiaxd;
 
-import net.mamoe.mirai.console.data.ListValue;
 import net.mamoe.mirai.console.data.Value;
 import net.mamoe.mirai.console.data.java.JavaAutoSavePluginConfig;
 
